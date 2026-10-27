@@ -1,0 +1,4 @@
+./http_server
+*.log
+server-files/
+*.o
